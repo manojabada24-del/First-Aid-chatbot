@@ -1,0 +1,6 @@
+{
+  "name": "First Aid Guardian",
+  "description": "Evidence-based emergency first-aid protocol assistant and ethical AI guardrail testing workbench for CSE276 Artificial Intelligence Foundations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
